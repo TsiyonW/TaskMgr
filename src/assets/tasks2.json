@@ -1,0 +1,7 @@
+{"tasks": [
+    { "id": 1, "title": "View tutorials", "description": "read about vue", "status":"in_progress", "role":"Admin","permissions":["canEdit","canView","canDelete"] },
+    { "id": 2, "title": "Install Packages", "description": "install all the packages needed", "status":"open" , "role":"Admin","permissions":["canEdit","canView","canDelete"]},
+    { "id": 3, "title": "Plan mini Project", "description": "plan a task manager ", "status":"open" , "role":"User","permissions":["canEdit","canView"]},
+    { "id": 4, "title": "Implement Project", "description": "implement task manager using vue", "status":"open", "role":"User","permissions":["canEdit","canView"] }
+  ]
+}
